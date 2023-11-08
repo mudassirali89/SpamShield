@@ -1,6 +1,5 @@
 streamlit
 nltk
-punkt
 scipy
 scikit-learn
 joblib
