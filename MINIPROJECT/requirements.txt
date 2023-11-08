@@ -1,5 +1,6 @@
 streamlit
 nltk
 scipy
+scipy.sparse
 scikit-learn
 joblib
