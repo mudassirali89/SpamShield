@@ -4,6 +4,9 @@ import pickle
 from nltk.corpus import stopwords
 import nltk
 nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('porterstemmer')
+
 from nltk.stem.porter import PorterStemmer
 
 ps = PorterStemmer()
