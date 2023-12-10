@@ -38,7 +38,7 @@ def transform_text(text):
     return " ".join(y)
 
 
-st.title("Email/SMS Spam Classifier")
+st.title("SMS Spam Classifier")
 
 input_sms = st.text_area("Enter the message")
 
