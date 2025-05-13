@@ -51,7 +51,7 @@ def classify_sms(text):
     return result
 
 # Telegram bot token
-BOT_TOKEN = '6729624986:AAHblZcMKpDcb1PQGgwEVglgv53ujRfvA5g'
+BOT_TOKEN = 'enter_bot_token_here'
 
 # Telegram bot start command
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
